@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "front": "We traveled",
+        "back": {
+            "name": "إحنا سَافَرنا",
+            "soundsLike": "Ehna safarna",
+            "translation": "We traveled"
+        }
+    },
+    {
+        "id": 2,
+        "front": "We played",
+        "back": {
+            "name": "إحنا لَعِبنا",
+            "soundsLike": "Ehna la'ibna",
+            "translation": "We played"
+        }
+    },
+    {
+        "id": 3,
+        "front": "We slept",
+        "back": {
+            "name": "إحنا نِمنا",
+            "soundsLike": "Ehna nimna",
+            "translation": "We slept"
+        }
+    },
+    {
+        "id": 4,
+        "front": "We spoke",
+        "back": {
+            "name": "إحنا اتكلمنا",
+            "soundsLike": "Ehna etkalemna",
+            "translation": "We spoke"
+        }
+    },
+    {
+        "id": 5,
+        "front": "We stayed up late",
+        "back": {
+            "name": "إحنا سَاهَرنا",
+            "soundsLike": "Ehna saharna",
+            "translation": "We stayed up late"
+        }
+    },
+    {
+        "id": 6,
+        "front": "We went",
+        "back": {
+            "name": "إحنا رَحنا",
+            "soundsLike": "Ehna rahna",
+            "translation": "We went"
+        }
+    },
+    {
+        "id": 7,
+        "front": "We came",
+        "back": {
+            "name": "إحنا جِينا",
+            "soundsLike": "Ehna geena",
+            "translation": "We came"
+        }
+    }
+]

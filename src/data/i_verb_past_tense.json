@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "front": "I traveled",
+        "back": {
+            "name": "أنا سَافَرْتُ",
+            "soundsLike": "Ana safart",
+            "translation": "I traveled"
+        }
+    },
+    {
+        "id": 2,
+        "front": "I played",
+        "back": {
+            "name": "أنا لَعِبْتُ",
+            "soundsLike": "Ana la'ibt",
+            "translation": "I played"
+        }
+    },
+    {
+        "id": 3,
+        "front": "I slept",
+        "back": {
+            "name": "أنا نِمْتُ",
+            "soundsLike": "Ana nimt",
+            "translation": "I slept"
+        }
+    },
+    {
+        "id": 4,
+        "front": "I spoke",
+        "back": {
+            "name": "أنا اتكلمت",
+            "soundsLike": "Ana etkalemt",
+            "translation": "I spoke"
+        }
+    },
+    {
+        "id": 5,
+        "front": "I stayed up late",
+        "back": {
+            "name": "أنا سَاهَرْتُ",
+            "soundsLike": "Ana sahart",
+            "translation": "I stayed up late"
+        }
+    },
+    {
+        "id": 6,
+        "front": "I went",
+        "back": {
+            "name": "أنا رَحَلْتُ",
+            "soundsLike": "Ana rahalt",
+            "translation": "I went"
+        }
+    },
+    {
+        "id": 7,
+        "front": "I came",
+        "back": {
+            "name": "أنا جِئْتُ",
+            "soundsLike": "Ana ji't",
+            "translation": "I came"
+        }
+    }
+]

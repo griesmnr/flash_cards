@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "front": "She traveled",
+        "back": {
+            "name": "هي سَافَرَتْ",
+            "soundsLike": "Heyya safaret",
+            "translation": "She traveled"
+        }
+    },
+    {
+        "id": 2,
+        "front": "She played",
+        "back": {
+            "name": "هي لَعِبَتْ",
+            "soundsLike": "Heyya la'ibat",
+            "translation": "She played"
+        }
+    },
+    {
+        "id": 3,
+        "front": "She slept",
+        "back": {
+            "name": "هي نَامَتْ",
+            "soundsLike": "Heyya namet",
+            "translation": "She slept"
+        }
+    },
+    {
+        "id": 4,
+        "front": "She spoke",
+        "back": {
+            "name": "هي اتكلمت",
+            "soundsLike": "Heyya etkalemet",
+            "translation": "She spoke"
+        }
+    },
+    {
+        "id": 5,
+        "front": "She stayed up late",
+        "back": {
+            "name": "هي سَاهَرَتْ",
+            "soundsLike": "Heyya saharet",
+            "translation": "She stayed up late"
+        }
+    },
+    {
+        "id": 6,
+        "front": "She went",
+        "back": {
+            "name": "هي رَحَلَتْ",
+            "soundsLike": "Heyya rahalet",
+            "translation": "She went"
+        }
+    },
+    {
+        "id": 7,
+        "front": "She came",
+        "back": {
+            "name": "هي جَاءَتْ",
+            "soundsLike": "Heyya ja'a",
+            "translation": "She came"
+        }
+    }

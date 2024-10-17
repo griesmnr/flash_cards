@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "front": "In",
+        "back": {
+            "name": "في",
+            "soundsLike": "fi",
+            "translation": "In"
+        }
+    },
+    {
+        "id": 2,
+        "front": "On",
+        "back": {
+            "name": "على",
+            "soundsLike": "ala",
+            "translation": "On"
+        }
+    },
+    {
+        "id": 3,
+        "front": "Under",
+        "back": {
+            "name": "تحت",
+            "soundsLike": "taḥt",
+            "translation": "Under"
+        }
+    },
+    {
+        "id": 4,
+        "front": "With",
+        "back": {
+            "name": "مع",
+            "soundsLike": "ma'a",
+            "translation": "With"
+        }
+    },
+    {
+        "id": 5,
+        "front": "Without",
+        "back": {
+            "name": "من غير",
+            "soundsLike": "min ghir",
+            "translation": "Without"
+        }
+    },
+    {
+        "id": 6,
+        "front": "Between",
+        "back": {
+            "name": "بين",
+            "soundsLike": "bain",
+            "translation": "Between"
+        }
+    },
+    {
+        "id": 7,
+        "front": "Before",
+        "back": {
+            "name": "قبل",
+            "soundsLike": "abl",
+            "translation": "Before"
+        }
+    },
+    {
+        "id": 8,
+        "front": "After",
+        "back": {
+            "name": "بعد",
+            "soundsLike": "ba'd",
+            "translation": "After"
+        }
+    },
+    {
+        "id": 9,
+        "front": "Above",
+        "back": {
+            "name": "فوق",
+            "soundsLike": "fouq",
+            "translation": "Above"
+        }
+    },
+    {
+        "id": 10,
+        "front": "In front of",
+        "back": {
+            "name": "قدام",
+            "soundsLike": "oudam",
+            "translation": "In front of"
+        }
+    },
+    {
+        "id": 11,
+        "front": "In order to / Because",
+        "back": {
+            "name": "عشان",
+            "soundsLike": "ʿashan",
+            "translation": "In order to / Because"
+        }
+    }
+]

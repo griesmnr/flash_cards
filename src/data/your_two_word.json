@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "front": "Your coffee (to a man)",
+        "back": {
+            "name": "قَهْوَة بَتَاتَك",
+            "soundsLike": "Qahwat batatak",
+            "translation": "Your coffee (to a man)"
+        }
+    },
+    {
+        "id": 2,
+        "front": "Your coffee (to a woman)",
+        "back": {
+            "name": "قَهْوَة بَتَاتِك",
+            "soundsLike": "Qahwat batatik",
+            "translation": "Your coffee (to a woman)"
+        }
+    },
+    {
+        "id": 3,
+        "front": "Your tea (to a man)",
+        "back": {
+            "name": "شَاي بَتَاتَك",
+            "soundsLike": "Shay batatak",
+            "translation": "Your tea (to a man)"
+        }
+    },
+    {
+        "id": 4,
+        "front": "Your tea (to a woman)",
+        "back": {
+            "name": "شَاي بَتَاتِك",
+            "soundsLike": "Shay batatik",
+            "translation": "Your tea (to a woman)"
+        }
+    },
+    {
+        "id": 5,
+        "front": "Your falafel (to a man)",
+        "back": {
+            "name": "طَعْمِيَة بَتَاتَك",
+            "soundsLike": "Ṭa‘miya batatak",
+            "translation": "Your ta‘miya (to a man)"
+        }
+    },
+    {
+        "id": 6,
+        "front": "Your falafel (to a woman)",
+        "back": {
+            "name": "طَعْمِيَة بَتَاتِك",
+            "soundsLike": "Ṭa‘miya batatik",
+            "translation": "Your ta‘miya (to a woman)"
+        }
+    },
+    {
+        "id": 7,
+        "front": "Your book (to a man)",
+        "back": {
+            "name": "كِتَاب بَتَاتَك",
+            "soundsLike": "Kitab batatak",
+            "translation": "Your book (to a man)"
+        }
+    },
+    {
+        "id": 8,
+        "front": "Your book (to a woman)",
+        "back": {
+            "name": "كِتَاب بَتَاتِك",
+            "soundsLike": "Kitab batatik",
+            "translation": "Your book (to a woman)"
+        }
+    },
+    {
+        "id": 9,
+        "front": "Your pen (to a man)",
+        "back": {
+            "name": "قَلَم بَتَاتَك",
+            "soundsLike": "Alem batatak",
+            "translation": "Your pen (to a man)"
+        }
+    },
+    {
+        "id": 10,
+        "front": "Your pen (to a woman)",
+        "back": {
+            "name": "قَلَم بَتَاتِك",
+            "soundsLike": "Alem batatik",
+            "translation": "Your pen (to a woman)"
+        }
+    },
+    {
+        "id": 11,
+        "front": "Your chair (to a man)",
+        "back": {
+            "name": "كُرْسِي بَتَاتَك",
+            "soundsLike": "Kursi batatak",
+            "translation": "Your chair (to a man)"
+        }
+    },
+    {
+        "id": 12,
+        "front": "Your chair (to a woman)",
+        "back": {
+            "name": "كُرْسِي بَتَاتِك",
+            "soundsLike": "Kursi batatik",
+            "translation": "Your chair (to a woman)"
+        }
+    },
+    {
+        "id": 13,
+        "front": "Your room (to a man)",
+        "back": {
+            "name": "غُرْفَة بَتَاتَك",
+            "soundsLike": "Ghurfa batatak",
+            "translation": "Your room (to a man)"
+        }
+    },
+    {
+        "id": 14,
+        "front": "Your room (to a woman)",
+        "back": {
+            "name": "غُرْفَة بَتَاتِك",
+            "soundsLike": "Ghurfa batatik",
+            "translation": "Your room (to a woman)"
+        }
+    },
+    {
+        "id": 15,
+        "front": "Your water (to a man)",
+        "back": {
+            "name": "مَاء بَتَاتَك",
+            "soundsLike": "Ma' batatak",
+            "translation": "Your water (to a man)"
+        }
+    },
+    {
+        "id": 16,
+        "front": "Your water (to a woman)",
+        "back": {
+            "name": "مَاء بَتَاتِك",
+            "soundsLike": "Ma' batatik",
+            "translation": "Your water (to a woman)"
+        }
+    },
+    {
+        "id": 17,
+        "front": "Your watch (to a man)",
+        "back": {
+            "name": "سَاعَة بَتَاتَك",
+            "soundsLike": "Sa'a batatak",
+            "translation": "Your watch (to a man)"
+        }
+    },
+    {
+        "id": 18,
+        "front": "Your watch (to a woman)",
+        "back": {
+            "name": "سَاعَة بَتَاتِك",
+            "soundsLike": "Sa'a batatik",
+            "translation": "Your watch (to a woman)"
+        }
+    },
+    {
+        "id": 19,
+        "front": "Your potato (to a man)",
+        "back": {
+            "name": "بَطَاطَة بَتَاتَك",
+            "soundsLike": "Batata batatak",
+            "translation": "Your potato (to a man)"
+        }
+    },
+    {
+        "id": 20,
+        "front": "Your potato (to a woman)",
+        "back": {
+            "name": "بَطَاطَة بَتَاتِك",
+            "soundsLike": "Batata batatik",
+            "translation": "Your potato (to a woman)"
+        }
+    }
+]

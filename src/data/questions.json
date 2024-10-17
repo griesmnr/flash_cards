@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "front": "إيه",
+        "back": {
+            "name": "إيه",
+            "soundsLike": "ēh",
+            "translation": "What"
+        }
+    },
+    {
+        "id": 2,
+        "front": "مين",
+        "back": {
+            "name": "مين",
+            "soundsLike": "mīn",
+            "translation": "Who"
+        }
+    },
+    {
+        "id": 3,
+        "front": "فين",
+        "back": {
+            "name": "فين",
+            "soundsLike": "fīn",
+            "translation": "Where"
+        }
+    },
+    {
+        "id": 4,
+        "front": "إمتى",
+        "back": {
+            "name": "إمتى",
+            "soundsLike": "emtā",
+            "translation": "When"
+        }
+    },
+    {
+        "id": 5,
+        "front": "إزاي",
+        "back": {
+            "name": "إزاي",
+            "soundsLike": "izzāy",
+            "translation": "How"
+        }
+    },
+    {
+        "id": 6,
+        "front": "ليه",
+        "back": {
+            "name": "ليه",
+            "soundsLike": "līh",
+            "translation": "Why"
+        }
+    },
+    {
+        "id": 7,
+        "front": "كام",
+        "back": {
+            "name": "كام",
+            "soundsLike": "kām",
+            "translation": "How much / How many"
+        }
+    },
+    {
+        "id": 8,
+        "front": "أي",
+        "back": {
+            "name": "أي",
+            "soundsLike": "ayy",
+            "translation": "Which"
+        }
+    },
+    {
+        "id": 9,
+        "front": "إيه",
+        "back": {
+            "name": "إيه",
+            "soundsLike": "ēh",
+            "translation": "What (alternative)"
+        }
+    },
+    {
+        "id": 10,
+        "front": "هل",
+        "back": {
+            "name": "هل",
+            "soundsLike": "hal",
+            "translation": "Is / Are"
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "front": "دلوقتي",
+        "back": {
+            "name": "دلوقتي",
+            "soundsLike": "dilwa'ti",
+            "translation": "Now"
+        }
+    },
+    {
+        "id": 2,
+        "front": "ممكن",
+        "back": {
+            "name": "ممكن",
+            "soundsLike": "mumkin",
+            "translation": "Maybe"
+        }
+    },
+    {
+        "id": 3,
+        "front": "عشان",
+        "back": {
+            "name": "عشان",
+            "soundsLike": "ʿashān",
+            "translation": "Because / For"
+        }
+    },
+    {
+        "id": 4,
+        "front": "كل يوم",
+        "back": {
+            "name": "كل يوم",
+            "soundsLike": "kull yūm",
+            "translation": "Every day"
+        }
+    },
+    {
+        "id": 5,
+        "front": "على طول",
+        "back": {
+            "name": "على طول",
+            "soundsLike": "ʿalā ṭūl",
+            "translation": "Always / Forever"
+        }
+    }
+]

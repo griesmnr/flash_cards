@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "front": "He traveled",
+        "back": {
+            "name": "هو سَافَرَ",
+            "soundsLike": "Huwwa safar",
+            "translation": "He traveled"
+        }
+    },
+    {
+        "id": 2,
+        "front": "He played",
+        "back": {
+            "name": "هو لَعِبَ",
+            "soundsLike": "Huwwa la'ib",
+            "translation": "He played"
+        }
+    },
+    {
+        "id": 3,
+        "front": "He slept",
+        "back": {
+            "name": "هو نَامَ",
+            "soundsLike": "Huwwa nam",
+            "translation": "He slept"
+        }
+    },
+    {
+        "id": 4,
+        "front": "He spoke",
+        "back": {
+            "name": "هو اتكلم",
+            "soundsLike": "Huwwa etkalem",
+            "translation": "He spoke"
+        }
+    },
+    {
+        "id": 5,
+        "front": "He stayed up late",
+        "back": {
+            "name": "هو سَاهَرَ",
+            "soundsLike": "Huwwa sahar",
+            "translation": "He stayed up late"
+        }
+    },
+    {
+        "id": 6,
+        "front": "He went",
+        "back": {
+            "name": "هو رَحَلَ",
+            "soundsLike": "Huwwa rahal",
+            "translation": "He went"
+        }
+    },
+    {
+        "id": 7,
+        "front": "He came",
+        "back": {
+            "name": "هو جَاءَ",
+            "soundsLike": "Huwwa jaa'",
+            "translation": "He came"
+        }
+    }
+]

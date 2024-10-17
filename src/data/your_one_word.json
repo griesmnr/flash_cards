@@ -1,0 +1,235 @@
+[
+  {
+      "id": 1,
+      "front": "Your coffee (to a woman)",
+      "back": {
+          "name": "قهوتِك",
+          "soundsLike": "Ahwa-tik",
+          "translation": "Your coffee"
+      }
+  },
+  {
+      "id": 2,
+      "front": "Your coffee (to a man)",
+      "back": {
+          "name": "قهوتَك",
+          "soundsLike": "Ahwa-tak",
+          "translation": "Your coffee"
+      }
+  },
+  {
+      "id": 3,
+      "front": "Your tea (to a woman)",
+      "back": {
+          "name": "شايِك",
+          "soundsLike": "Shaa-yik",
+          "translation": "Your tea"
+      }
+  },
+  {
+      "id": 4,
+      "front": "Your tea (to a man)",
+      "back": {
+          "name": "شايَك",
+          "soundsLike": "Shaa-yak",
+          "translation": "Your tea"
+      }
+  },
+  {
+      "id": 5,
+      "front": "Your fatir (to a woman)",
+      "back": {
+          "name": "فطيرِك",
+          "soundsLike": "Fa-teer-ik",
+          "translation": "Your fatir"
+      }
+  },
+  {
+      "id": 6,
+      "front": "Your fatir (to a man)",
+      "back": {
+          "name": "فطيرَك",
+          "soundsLike": "Fa-teer-ak",
+          "translation": "Your fatir"
+      }
+  },
+  {
+      "id": 7,
+      "front": "Your pizza (to a woman)",
+      "back": {
+          "name": "بيتزاكِ",
+          "soundsLike": "Bitt-zaak-ik",
+          "translation": "Your pizza"
+      }
+  },
+  {
+      "id": 8,
+      "front": "Your pizza (to a man)",
+      "back": {
+          "name": "بيتزاكَ",
+          "soundsLike": "Bitt-zaak-ak",
+          "translation": "Your pizza"
+      }
+  },
+  {
+      "id": 9,
+      "front": "Your apartment (to a woman)",
+      "back": {
+          "name": "شَقَّتِك",
+          "soundsLike": "Sha’etit-ik",
+          "translation": "Your apartment"
+      }
+  },
+  {
+      "id": 10,
+      "front": "Your apartment (to a man)",
+      "back": {
+          "name": "شَقَّتَك",
+          "soundsLike": "Sha’etat-ak",
+          "translation": "Your apartment"
+      }
+  },
+  {
+      "id": 11,
+      "front": "Your house (to a woman)",
+      "back": {
+          "name": "بيتِك",
+          "soundsLike": "Bayt-ik",
+          "translation": "Your house"
+      }
+  },
+  {
+      "id": 12,
+      "front": "Your house (to a man)",
+      "back": {
+          "name": "بيتَك",
+          "soundsLike": "Bayt-ak",
+          "translation": "Your house"
+      }
+  },
+  {
+      "id": 13,
+      "front": "Your car (to a woman)",
+      "back": {
+          "name": "عربيتِك",
+          "soundsLike": "‘Arabiya-tik",
+          "translation": "Your car"
+      }
+  },
+  {
+      "id": 14,
+      "front": "Your car (to a man)",
+      "back": {
+          "name": "عربيتَك",
+          "soundsLike": "‘Arabiya-tak",
+          "translation": "Your car"
+      }
+  },{
+        "id": 15,
+        "front": "Your book (to a woman)",
+        "back": {
+            "name": "كتابِك",
+            "soundsLike": "Kitaab-ik",
+            "translation": "Your book (to a woman)"
+        }
+    },
+    {
+        "id": 16,
+        "front": "Your book (to a man)",
+        "back": {
+            "name": "كتابَك",
+            "soundsLike": "Kitaab-ak",
+            "translation": "Your book (to a man)"
+        }
+    },
+    {
+        "id": 17,
+        "front": "Your pen (to a woman)",
+        "back": {
+            "name": "قلمِك",
+            "soundsLike": "ʾAlam-ik",
+            "translation": "Your pen (to a woman)"
+        }
+    },
+    {
+        "id": 18,
+        "front": "Your pen (to a man)",
+        "back": {
+            "name": "قلمَك",
+            "soundsLike": "ʾAlam-ak",
+            "translation": "Your pen (to a man)"
+        }
+    },
+    {
+        "id": 19,
+        "front": "Your chair (to a woman)",
+        "back": {
+            "name": "كرسيِك",
+            "soundsLike": "Kursi-ik",
+            "translation": "Your chair (to a woman)"
+        }
+    },
+    {
+        "id": 20,
+        "front": "Your chair (to a man)",
+        "back": {
+            "name": "كرسيَك",
+            "soundsLike": "Kursi-ak",
+            "translation": "Your chair (to a man)"
+        }
+    },
+    {
+        "id": 21,
+        "front": "Your room (to a woman)",
+        "back": {
+            "name": "أوضتِك",
+            "soundsLike": "Oodat-ik",
+            "translation": "Your room (to a woman)"
+        }
+    },
+    {
+        "id": 22,
+        "front": "Your room (to a man)",
+        "back": {
+            "name": "أوضتَك",
+            "soundsLike": "Oodat-ak",
+            "translation": "Your room (to a man)"
+        }
+    },
+    {
+        "id": 23,
+        "front": "Your water (to a woman)",
+        "back": {
+            "name": "ميِّتِك",
+            "soundsLike": "Miyyit-ik",
+            "translation": "Your water (to a woman)"
+        }
+    },
+    {
+        "id": 24,
+        "front": "Your water (to a man)",
+        "back": {
+            "name": "ميِّتَك",
+            "soundsLike": "Miyyit-ak",
+            "translation": "Your water (to a man)"
+        }
+    },
+    {
+        "id": 25,
+        "front": "Your watch/clock (to a woman)",
+        "back": {
+            "name": "ساعةِك",
+            "soundsLike": "Saa‘it-ik",
+            "translation": "Your watch/clock (to a woman)"
+        }
+    },
+    {
+        "id": 26,
+        "front": "Your watch/clock (to a man)",
+        "back": {
+            "name": "ساعةَك",
+            "soundsLike": "Saa‘it-ak",
+            "translation": "Your watch/clock (to a man)"
+        }
+    }
+]

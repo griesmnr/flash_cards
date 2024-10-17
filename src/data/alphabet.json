@@ -126,13 +126,13 @@
         }
     },
     {
-        "id": 16,
-        "front": "ط",
-        "back": {
-            "name": "Taa",
-            "soundsLike": "t",
-            "exampleUsage": "طاولة (ṭawila) – table"
-        }
+      "id": 16,
+      "front": "ط",
+      "back": {
+          "name": "Taa",
+          "soundsLike": "ṭ",
+          "exampleUsage": "طعمية (ṭa‘miyya) – falafel"
+      }
     },
     {
         "id": 17,

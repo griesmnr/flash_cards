@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "front": "يوم",
+        "back": {
+            "name": "يوم",
+            "soundsLike": "yawm",
+            "translation": "Day"
+        }
+    },
+    {
+        "id": 2,
+        "front": "أسبوع",
+        "back": {
+            "name": "أسبوع",
+            "soundsLike": "usbūʿ",
+            "translation": "Week"
+        }
+    },
+    {
+        "id": 3,
+        "front": "شهر",
+        "back": {
+            "name": "شهر",
+            "soundsLike": "shahr",
+            "translation": "Month"
+        }
+    },
+    {
+        "id": 4,
+        "front": "سنة",
+        "back": {
+            "name": "سنة",
+            "soundsLike": "sana",
+            "translation": "Year"
+        }
+    },
+    {
+        "id": 5,
+        "front": "ساعة",
+        "back": {
+            "name": "ساعة",
+            "soundsLike": "sāʿa",
+            "translation": "Hour"
+        }
+    },
+    {
+        "id": 6,
+        "front": "دقيقة",
+        "back": {
+            "name": "دقيقة",
+            "soundsLike": "dāqīqa",
+            "translation": "Minute"
+        }
+    },
+    {
+        "id": 7,
+        "front": "ثانية",
+        "back": {
+            "name": "ثانية",
+            "soundsLike": "sāniya",
+            "translation": "Second"
+        }
+    },
+    {
+        "id": 8,
+        "front": "صباح",
+        "back": {
+            "name": "صباح",
+            "soundsLike": "ṣabāḥ",
+            "translation": "Morning"
+        }
+    },
+    {
+        "id": 9,
+        "front": "مساء",
+        "back": {
+            "name": "مساء",
+            "soundsLike": "masā'",
+            "translation": "Evening"
+        }
+    },
+    {
+        "id": 10,
+        "front": "ليلة",
+        "back": {
+            "name": "ليلة",
+            "soundsLike": "layla",
+            "translation": "Night"
+        }
+    },
+    {
+        "id": 11,
+        "front": "أمس",
+        "back": {
+            "name": "أمس",
+            "soundsLike": "ams",
+            "translation": "Yesterday"
+        }
+    },
+    {
+        "id": 12,
+        "front": "اليوم",
+        "back": {
+            "name": "اليوم",
+            "soundsLike": "al-yawm",
+            "translation": "Today"
+        }
+    },
+    {
+        "id": 13,
+        "front": "الليلة",
+        "back": {
+            "name": "الليلة",
+            "soundsLike": "al-layla",
+            "translation": "Tonight"
+        }
+    },
+    {
+        "id": 14,
+        "front": "غداً",
+        "back": {
+            "name": "غداً",
+            "soundsLike": "ghadan",
+            "translation": "Tomorrow"
+        }
+    },
+    {
+        "id": 15,
+        "front": "هذا الأسبوع",
+        "back": {
+            "name": "هذا الأسبوع",
+            "soundsLike": "hādhā al-usbūʿ",
+            "translation": "This week"
+        }
+    },
+    {
+        "id": 16,
+        "front": "الأسبوع الماضي",
+        "back": {
+            "name": "الأسبوع الماضي",
+            "soundsLike": "al-usbūʿ al-māḍī",
+            "translation": "Last week"
+        }
+    },
+    {
+        "id": 17,
+        "front": "الأسبوع المقبل",
+        "back": {
+            "name": "الأسبوع المقبل",
+            "soundsLike": "al-usbūʿ al-muqbil",
+            "translation": "Next week"
+        }
+    }
+]
