@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "front": "أ",
+        "back": {
+            "name": "Alif",
+            "soundsLike": "a",
+            "exampleUsage": "أحمر (ahmar) – red"
+        }
+    },
+    {
+        "id": 2,
+        "front": "ب",
+        "back": {
+            "name": "Baa",
+            "soundsLike": "b",
+            "exampleUsage": "بحر (baḥr) – sea"
+        }
+    },
+    {
+        "id": 3,
+        "front": "ت",
+        "back": {
+            "name": "Taa",
+            "soundsLike": "t",
+            "exampleUsage": "تفاح (toofah) – apple"
+        }
+    },
+    {
+        "id": 4,
+        "front": "ث",
+        "back": {
+            "name": "Thaa",
+            "soundsLike": "th",
+            "exampleUsage": "ثعبان (thaʿbaan) – snake"
+        }
+    },
+    {
+        "id": 5,
+        "front": "ج",
+        "back": {
+            "name": "Jeem",
+            "soundsLike": "j",
+            "exampleUsage": "جميل (jameel) – beautiful"
+        }
+    },
+    {
+        "id": 6,
+        "front": "ح",
+        "back": {
+            "name": "Haa",
+            "soundsLike": "h",
+            "exampleUsage": "حلو (ḥelw) – sweet"
+        }
+    },
+    {
+        "id": 7,
+        "front": "خ",
+        "back": {
+            "name": "Khaa",
+            "soundsLike": "kh",
+            "exampleUsage": "خمسة (khamsa) – 5"
+        }
+    },
+    {
+        "id": 8,
+        "front": "د",
+        "back": {
+            "name": "Daal",
+            "soundsLike": "d",
+            "exampleUsage": "ذهب (dahab) – gold"
+        }
+    },
+    {
+        "id": 10,
+        "front": "ر",
+        "back": {
+            "name": "Raa",
+            "soundsLike": "r",
+            "exampleUsage": "رجل (rajul) – man"
+        }
+    },
+    {
+        "id": 11,
+        "front": "ز",
+        "back": {
+            "name": "Zaa",
+            "soundsLike": "z",
+            "exampleUsage": "زاك؟ (zayyak) – How are you? (for males) / زيكِ؟ (zayyik) – How are you? (for females)"
+        }
+    },
+    {
+        "id": 12,
+        "front": "س",
+        "back": {
+            "name": "Seen",
+            "soundsLike": "s",
+            "exampleUsage": "سلام (salaam) – peace / hello"
+        }
+    },
+    {
+        "id": 13,
+        "front": "ش",
+        "back": {
+            "name": "Sheen",
+            "soundsLike": "sh",
+            "exampleUsage": "شمس (shams) – sun"
+        }
+    },
+    {
+        "id": 14,
+        "front": "ص",
+        "back": {
+            "name": "Saad",
+            "soundsLike": "s",
+            "exampleUsage": "صباح (sabah) – morning"
+        }
+    },
+    {
+        "id": 15,
+        "front": "ض",
+        "back": {
+            "name": "Dhaad",
+            "soundsLike": "d",
+            "exampleUsage": "ضوء (daw') – light"
+        }
+    },
+    {
+        "id": 16,
+        "front": "ط",
+        "back": {
+            "name": "Taa",
+            "soundsLike": "t",
+            "exampleUsage": "طاولة (ṭawila) – table"
+        }
+    },
+    {
+        "id": 17,
+        "front": "ظ",
+        "back": {
+            "name": "Dhaa",
+            "soundsLike": "dh",
+            "exampleUsage": "ظرف (zarf) – envelope"
+        }
+    },
+    {
+        "id": 18,
+        "front": "ع",
+        "back": {
+            "name": "Ain",
+            "soundsLike": "a",
+            "exampleUsage": "عربية (ʿarabiyya) – car"
+        }
+    },
+    {
+        "id": 19,
+        "front": "غ",
+        "back": {
+            "name": "Ghayn",
+            "soundsLike": "gh",
+            "exampleUsage": "غابة (ghāba) – forest"
+        }
+    },
+    {
+        "id": 20,
+        "front": "ف",
+        "back": {
+            "name": "Faa",
+            "soundsLike": "f",
+            "exampleUsage": "فاهمة (fahma) - understand"
+        }
+    },
+    {
+        "id": 21,
+        "front": "ق",
+        "back": {
+            "name": "Qaaf",
+            "soundsLike": "eh",
+            "exampleUsage": "قهوة (ehwah) – coffee"
+        }
+    },
+    {
+        "id": 22,
+        "front": "ك",
+        "back": {
+            "name": "Kaf",
+            "soundsLike": "k",
+            "exampleUsage": "كتاب (kitaab) – book"
+        }
+    },
+    {
+        "id": 23,
+        "front": "ل",
+        "back": {
+            "name": "Laam",
+            "soundsLike": "l",
+            "exampleUsage": "لعبة (li'ba) – toy"
+        }
+    },
+    {
+        "id": 24,
+        "front": "م",
+        "back": {
+            "name": "Meem",
+            "soundsLike": "m",
+            "exampleUsage": "ماء (maya') – water"
+        }
+    },
+    {
+        "id": 25,
+        "front": "ن",
+        "back": {
+            "name": "Noon",
+            "soundsLike": "n",
+            "exampleUsage": "نجم (najm) – star"
+        }
+    },
+    {
+        "id": 26,
+        "front": "ه",
+        "back": {
+            "name": "Haa",
+            "soundsLike": "h",
+            "exampleUsage": "حرارة (ḥarāra) – heat"
+        }
+    },
+    {
+        "id": 27,
+        "front": "و",
+        "back": {
+            "name": "Waaw",
+            "soundsLike": "w",
+            "exampleUsage": "ولد (wulid) – boy"
+        }
+    },
+    {
+        "id": 28,
+        "front": "ي",
+        "back": {
+            "name": "Yaa",
+            "soundsLike": "y",
+            "exampleUsage": "يوم (yawm) – day"
+        }
+    }
+]
