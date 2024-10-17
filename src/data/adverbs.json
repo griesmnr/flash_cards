@@ -1,47 +1,47 @@
 [
     {
         "id": 1,
-        "front": "دلوقتي",
+        "front": "Now",
         "back": {
             "name": "دلوقتي",
             "soundsLike": "dilwa'ti",
-            "translation": "Now"
+            "translation": "دلوقتي"
         }
     },
     {
         "id": 2,
-        "front": "ممكن",
+        "front": "Maybe",
         "back": {
             "name": "ممكن",
             "soundsLike": "mumkin",
-            "translation": "Maybe"
+            "translation": "ممكن"
         }
     },
     {
         "id": 3,
-        "front": "عشان",
+        "front": "Because / For",
         "back": {
             "name": "عشان",
             "soundsLike": "ʿashān",
-            "translation": "Because / For"
+            "translation": "عشان"
         }
     },
     {
         "id": 4,
-        "front": "كل يوم",
+        "front": "Every day",
         "back": {
             "name": "كل يوم",
             "soundsLike": "kull yūm",
-            "translation": "Every day"
+            "translation": "كل يوم"
         }
     },
     {
         "id": 5,
-        "front": "على طول",
+        "front": "Always / Forever",
         "back": {
             "name": "على طول",
             "soundsLike": "ʿalā ṭūl",
-            "translation": "Always / Forever"
+            "translation": "على طول"
         }
     }
 ]

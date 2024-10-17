@@ -1,155 +1,137 @@
 [
     {
         "id": 1,
-        "front": "يوم",
+        "front": "Day",
         "back": {
             "name": "يوم",
             "soundsLike": "yawm",
-            "translation": "Day"
+            "translation": "يوم"
         }
     },
     {
         "id": 2,
-        "front": "أسبوع",
+        "front": "Week",
         "back": {
             "name": "أسبوع",
             "soundsLike": "usbūʿ",
-            "translation": "Week"
+            "translation": "أسبوع"
         }
     },
     {
         "id": 3,
-        "front": "شهر",
+        "front": "Month",
         "back": {
             "name": "شهر",
             "soundsLike": "shahr",
-            "translation": "Month"
+            "translation": "شهر"
         }
     },
     {
         "id": 4,
-        "front": "سنة",
+        "front": "Year",
         "back": {
             "name": "سنة",
             "soundsLike": "sana",
-            "translation": "Year"
+            "translation": "سنة"
         }
     },
     {
         "id": 5,
-        "front": "ساعة",
+        "front": "Hour",
         "back": {
             "name": "ساعة",
             "soundsLike": "sāʿa",
-            "translation": "Hour"
-        }
-    },
-    {
-        "id": 6,
-        "front": "دقيقة",
-        "back": {
-            "name": "دقيقة",
-            "soundsLike": "dāqīqa",
-            "translation": "Minute"
-        }
-    },
-    {
-        "id": 7,
-        "front": "ثانية",
-        "back": {
-            "name": "ثانية",
-            "soundsLike": "sāniya",
-            "translation": "Second"
+            "translation": "ساعة"
         }
     },
     {
         "id": 8,
-        "front": "صباح",
+        "front": "Morning",
         "back": {
             "name": "صباح",
             "soundsLike": "ṣabāḥ",
-            "translation": "Morning"
+            "translation": "صباح"
         }
     },
     {
         "id": 9,
-        "front": "مساء",
+        "front": "Evening",
         "back": {
             "name": "مساء",
             "soundsLike": "masā'",
-            "translation": "Evening"
+            "translation": "مساء"
         }
     },
     {
         "id": 10,
-        "front": "ليلة",
+        "front": "Night",
         "back": {
             "name": "ليلة",
             "soundsLike": "layla",
-            "translation": "Night"
+            "translation": "ليلة"
         }
     },
     {
         "id": 11,
-        "front": "أمس",
+        "front": "Yesterday",
         "back": {
             "name": "أمس",
             "soundsLike": "ams",
-            "translation": "Yesterday"
+            "translation": "أمس"
         }
     },
     {
         "id": 12,
-        "front": "اليوم",
+        "front": "Today",
         "back": {
             "name": "اليوم",
             "soundsLike": "al-yawm",
-            "translation": "Today"
+            "translation": "اليوم"
         }
     },
     {
         "id": 13,
-        "front": "الليلة",
+        "front": "Tonight",
         "back": {
             "name": "الليلة",
             "soundsLike": "al-layla",
-            "translation": "Tonight"
+            "translation": "الليلة"
         }
     },
     {
         "id": 14,
-        "front": "غداً",
+        "front": "Tomorrow",
         "back": {
             "name": "غداً",
             "soundsLike": "ghadan",
-            "translation": "Tomorrow"
+            "translation": "غداً"
         }
     },
     {
         "id": 15,
-        "front": "هذا الأسبوع",
+        "front": "This week",
         "back": {
             "name": "هذا الأسبوع",
             "soundsLike": "hādhā al-usbūʿ",
-            "translation": "This week"
+            "translation": "هذا الأسبوع"
         }
     },
     {
         "id": 16,
-        "front": "الأسبوع الماضي",
+        "front": "Last week",
         "back": {
             "name": "الأسبوع الماضي",
             "soundsLike": "al-usbūʿ al-māḍī",
-            "translation": "Last week"
+            "translation": "الأسبوع الماضي"
         }
     },
     {
         "id": 17,
-        "front": "الأسبوع المقبل",
+        "front": "Next week",
         "back": {
             "name": "الأسبوع المقبل",
             "soundsLike": "al-usbūʿ al-muqbil",
-            "translation": "Next week"
+            "translation": "الأسبوع المقبل"
         }
     }
 ]
