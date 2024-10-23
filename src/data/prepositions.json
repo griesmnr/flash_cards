@@ -45,48 +45,12 @@
         }
     },
     {
-        "id": 6,
-        "front": "Between",
-        "back": {
-            "name": "بين",
-            "soundsLike": "bain",
-            "translation": "Between"
-        }
-    },
-    {
-        "id": 7,
-        "front": "Before",
-        "back": {
-            "name": "قبل",
-            "soundsLike": "abl",
-            "translation": "Before"
-        }
-    },
-    {
         "id": 8,
         "front": "After",
         "back": {
             "name": "بعد",
             "soundsLike": "ba'd",
             "translation": "After"
-        }
-    },
-    {
-        "id": 9,
-        "front": "Above",
-        "back": {
-            "name": "فوق",
-            "soundsLike": "fouq",
-            "translation": "Above"
-        }
-    },
-    {
-        "id": 10,
-        "front": "In front of",
-        "back": {
-            "name": "قدام",
-            "soundsLike": "oudam",
-            "translation": "In front of"
         }
     },
     {
@@ -97,5 +61,15 @@
             "soundsLike": "ʿashan",
             "translation": "In order to / Because"
         }
+    },
+    {
+        "id": 10,
+        "front": "But / Only / Enough",
+        "back": {
+            "name": "بس",
+            "soundsLike": "bas",
+            "translation": "But / Only / Enough"
+        }
     }
+
 ]

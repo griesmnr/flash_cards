@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "front": "Lawyer",
+        "back": {
+            "name": "محامي",
+            "soundsLike": "moḥāmi",
+            "translation": "Lawyer"
+        }
+    },
+    {
+        "id": 2,
+        "front": "Teacher",
+        "back": {
+            "name": "مدرس",
+            "soundsLike": "modarris",
+            "translation": "Teacher"
+        }
+    },
+    {
+        "id": 3,
+        "front": "Engineer",
+        "back": {
+            "name": "مهندس",
+            "soundsLike": "mohandes",
+            "translation": "Engineer"
+        }
+    },
+    {
+        "id": 4,
+        "front": "Doctor",
+        "back": {
+            "name": "دكتور",
+            "soundsLike": "doktor",
+            "translation": "Doctor"
+        }
+    },
+    {
+        "id": 22,
+        "front": "Dentist",
+        "back": {
+            "name": "دكتور أسنان",
+            "soundsLike": "doktor asnān",
+            "translation": "Dentist"
+        }
+    },
+    {
+        "id": 20,
+        "front": "Driver",
+        "back": {
+            "name": "سواق",
+            "soundsLike": "sawwa",
+            "translation": "Driver"
+        }
+    },
+    {
+        "id": 5,
+        "front": "Clinic",
+        "back": {
+            "name": "عيادة",
+            "soundsLike": "ʿiyāda",
+            "translation": "Clinic"
+        }
+    },
+    {
+        "id": 6,
+        "front": "Factory",
+        "back": {
+            "name": "مصنع",
+            "soundsLike": "maṣnaʿ",
+            "translation": "Factory"
+        }
+    },
+    {
+        "id": 7,
+        "front": "Court",
+        "back": {
+            "name": "محكمة",
+            "soundsLike": "maḥkama",
+            "translation": "Court"
+        }
+    },
+    {
+        "id": 21,
+        "front": "Company",
+        "back": {
+            "name": "شركة",
+            "soundsLike": "shirka",
+            "translation": "Company"
+        }
+    },
+    {
+        "id": 9,
+        "front": "School",
+        "back": {
+            "name": "مدرسة",
+            "soundsLike": "madrasah",
+            "translation": "School"
+        }
+    },
+    {
+        "id": 8,
+        "front": "What do you do for work? (to a man)",
+        "back": {
+            "name": "إنتَ بتشتغل إيه؟",
+            "soundsLike": "enta btishtaghal ēh?",
+            "translation": "What do you do for work? (to a man)"
+        }
+    },
+    {
+        "id": 9,
+        "front": "What do you do for work? (to a woman)",
+        "back": {
+            "name": "إنتي بتشتغلي إيه؟",
+            "soundsLike": "enti btishtaghalī ēh?",
+            "translation": "What do you do for work? (to a woman)"
+        }
+    },
+    {
+        "id": 10,
+        "front": "What do you want to be? (to a man)",
+        "back": {
+            "name": "إنتَ عايز تبقى إيه؟",
+            "soundsLike": "enta ʿāyez tibʾa ēh?",
+            "translation": "What do you want to be? (to a man)"
+        }
+    },
+    {
+        "id": 11,
+        "front": "What do you want to be? (to a woman)",
+        "back": {
+            "name": "إنتي عايزة تبقي إيه؟",
+            "soundsLike": "enti ʿāyza tibʾī ēh?",
+            "translation": "What do you want to be? (to a woman)"
+        }
+    },
+    {
+        "id": 12,
+        "front": "I want to be a lawyer (said by a man)",
+        "back": {
+            "name": "أنا عايز أبقى محامي",
+            "soundsLike": "ana ʿāyez abʾa moḥāmi",
+            "translation": "I want to be a lawyer (said by a man)"
+        }
+    },
+    {
+        "id": 13,
+        "front": "I want to be a lawyer (said by a woman)",
+        "back": {
+            "name": "أنا عايزة أبقى محامية",
+            "soundsLike": "ana ʿāyza abʾa moḥāmeya",
+            "translation": "I want to be a lawyer (said by a woman)"
+        }
+    },
+    {
+        "id": 14,
+        "front": "I want to be a doctor (said by a man)",
+        "back": {
+            "name": "أنا عايز أبقى دكتور",
+            "soundsLike": "ana ʿāyez abʾa doktor",
+            "translation": "I want to be a doctor (said by a man)"
+        }
+    },
+    {
+        "id": 15,
+        "front": "I want to be a doctor (said by a woman)",
+        "back": {
+            "name": "أنا عايزة أبقى دكتورة",
+            "soundsLike": "ana ʿāyza abʾa doktora",
+            "translation": "I want to be a doctor (said by a woman)"
+        }
+    },
+    {
+        "id": 16,
+        "front": "I want to be a teacher (said by a man)",
+        "back": {
+            "name": "أنا عايز أبقى مدرس",
+            "soundsLike": "ana ʿāyez abʾa modarris",
+            "translation": "I want to be a teacher (said by a man)"
+        }
+    },
+    {
+        "id": 17,
+        "front": "I want to be a teacher (said by a woman)",
+        "back": {
+            "name": "أنا عايزة أبقى مدرسة",
+            "soundsLike": "ana ʿāyza abʾa moddarsa",
+            "translation": "I want to be a teacher (said by a woman)"
+        }
+    },
+    {
+        "id": 18,
+        "front": "I want to be an engineer (said by a man)",
+        "back": {
+            "name": "أنا عايز أبقى مهندس",
+            "soundsLike": "ana ʿāyez abʾa mohandes",
+            "translation": "I want to be an engineer (said by a man)"
+        }
+    },
+    {
+        "id": 19,
+        "front": "I want to be an engineer (said by a woman)",
+        "back": {
+            "name": "أنا عايزة أبقى مهندسة",
+            "soundsLike": "ana ʿāyza abʾa mohandesa",
+            "translation": "I want to be an engineer (said by a woman)"
+        }
+    }
+]

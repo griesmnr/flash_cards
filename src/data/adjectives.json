@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "front": "Happy (masculine)",
+        "back": {
+            "name": "فرحان",
+            "soundsLike": "farḥān",
+            "translation": "Happy (masculine)"
+        }
+    },
+    {
+        "id": 2,
+        "front": "Happy (feminine)",
+        "back": {
+            "name": "فرحانة",
+            "soundsLike": "farḥāna",
+            "translation": "Happy (feminine)"
+        }
+    },
+    {
+        "id": 3,
+        "front": "Scared (masculine)",
+        "back": {
+            "name": "بخاف",
+            "soundsLike": "bakhāf",
+            "translation": "Scared (masculine)"
+        }
+    },
+    {
+        "id": 4,
+        "front": "Scared (feminine)",
+        "back": {
+            "name": "بتخاف",
+            "soundsLike": "bitkhāf",
+            "translation": "Scared (feminine)"
+        }
+    },
+    {
+        "id": 5,
+        "front": "Tired (masculine)",
+        "back": {
+            "name": "تعبان",
+            "soundsLike": "taʕbān",
+            "translation": "Tired (masculine)"
+        }
+    },
+    {
+        "id": 6,
+        "front": "Tired (feminine)",
+        "back": {
+            "name": "تعبانة",
+            "soundsLike": "taʕbāna",
+            "translation": "Tired (feminine)"
+        }
+    },
+    {
+        "id": 7,
+        "front": "Sick (masculine)",
+        "back": {
+            "name": "عيان",
+            "soundsLike": "ʕayyān",
+            "translation": "Sick (masculine)"
+        }
+    },
+    {
+        "id": 8,
+        "front": "Sick (feminine)",
+        "back": {
+            "name": "عيانة",
+            "soundsLike": "ʕayyāna",
+            "translation": "Sick (feminine)"
+        }
+    }
+]

@@ -6,6 +6,7 @@ function App() {
     const [flashcards, setFlashcards] = useState([]);
     const [currentCard, setCurrentCard] = useState(0);
     const [showBack, setShowBack] = useState(false);
+    const [showSoundsLike, setShowSoundsLike] = useState(true); // State for toggling 'soundsLike'
     const [selectedCollection, setSelectedCollection] = useState('');
 
     // Fisher-Yates Shuffle Algorithm for randomizing the cards
@@ -18,17 +19,17 @@ function App() {
         return shuffled;
     };
 
-    // Use require.context to dynamically import all JSON files in the 'data' folder
+    // Load all JSON files in the 'data' folder
     useEffect(() => {
         const context = require.context('./data', false, /\.json$/);
         const files = context.keys().map((file) => file.replace('./', ''));
         setCollections(files);
         if (files.length > 0) {
-            setSelectedCollection(files[0]); // Default to the first collection
+            setSelectedCollection(files[0]);
         }
     }, []);
 
-    // Load the selected collection when it changes
+    // Load selected collection
     useEffect(() => {
         if (selectedCollection) {
             const fetchData = async () => {
@@ -55,8 +56,12 @@ function App() {
 
     const handleCollectionChange = (event) => {
         setSelectedCollection(event.target.value);
-        setCurrentCard(0); // Reset to the first card
-        setShowBack(false); // Ensure front is shown
+        setCurrentCard(0);
+        setShowBack(false);
+    };
+
+    const toggleSoundsLike = () => {
+        setShowSoundsLike((prev) => !prev);
     };
 
     return (
@@ -78,8 +83,19 @@ function App() {
                     {showBack && (
                         <div>
                             <h2>{flashcards[currentCard].back.name}</h2>
-                            <p>Sounds Like: {flashcards[currentCard].back.soundsLike}</p>
-                            <p>Example Usage: {flashcards[currentCard].back.exampleUsage}</p>
+                            {showSoundsLike && (
+                                <p>Sounds Like: {flashcards[currentCard].back.soundsLike}</p>
+                            )}
+                            <div className="sounds-like-toggle">
+                                <label>
+                                    <input
+                                        type="checkbox"
+                                        checked={showSoundsLike}
+                                        onChange={toggleSoundsLike}
+                                    />
+                                    Show "Sounds Like"
+                                </label>
+                            </div>
                         </div>
                     )}
                     <button onClick={handleFlip}>

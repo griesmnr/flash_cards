@@ -52,50 +52,5 @@
             "soundsLike": "Es-wid",
             "translation": "Black"
         }
-    },
-    {
-        "id": 7,
-        "front": "Pink",
-        "back": {
-            "name": "بمبي",
-            "soundsLike": "Bam-bee",
-            "translation": "Pink"
-        }
-    },
-    {
-        "id": 8,
-        "front": "Purple",
-        "back": {
-            "name": "موف",
-            "soundsLike": "Moaf",
-            "translation": "Purple"
-        }
-    },
-    {
-        "id": 9,
-        "front": "Orange",
-        "back": {
-            "name": "برتقاني",
-            "soundsLike": "Bur-tu-’ani",
-            "translation": "Orange"
-        }
-    },
-    {
-        "id": 10,
-        "front": "Brown",
-        "back": {
-            "name": "بني",
-            "soundsLike": "Boon-ee",
-            "translation": "Brown"
-        }
-    },
-    {
-        "id": 11,
-        "front": "Gray",
-        "back": {
-            "name": "رصاصي",
-            "soundsLike": "Ro-saasi",
-            "translation": "Gray"
-        }
     }
 ]

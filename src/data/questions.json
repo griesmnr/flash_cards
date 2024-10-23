@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "front": "إيه",
+        "front": "What",
         "back": {
             "name": "إيه",
             "soundsLike": "ēh",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "front": "مين",
+        "front": "Who",
         "back": {
             "name": "مين",
             "soundsLike": "mīn",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "front": "فين",
+        "front": "Where",
         "back": {
             "name": "فين",
             "soundsLike": "fīn",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "front": "إمتى",
+        "front": "When",
         "back": {
             "name": "إمتى",
             "soundsLike": "emtā",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "front": "إزاي",
+        "front": "How",
         "back": {
             "name": "إزاي",
             "soundsLike": "izzāy",
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "front": "ليه",
+        "front": "Why",
         "back": {
             "name": "ليه",
             "soundsLike": "līh",
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "front": "كام",
+        "front": "How much / How many",
         "back": {
             "name": "كام",
             "soundsLike": "kām",
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "front": "أي",
+        "front": "Which",
         "back": {
             "name": "أي",
             "soundsLike": "ayy",
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "front": "إيه",
+        "front": "What (alternative)",
         "back": {
             "name": "إيه",
             "soundsLike": "ēh",
@@ -82,7 +82,7 @@
     },
     {
         "id": 10,
-        "front": "هل",
+        "front": "Is / Are",
         "back": {
             "name": "هل",
             "soundsLike": "hal",
