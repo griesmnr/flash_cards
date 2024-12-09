@@ -45,21 +45,21 @@
         }
     },
     {
-        "id": 6,
-        "front": "I went",
+        "id": 8,
+        "front": "I laughed",
         "back": {
-            "name": "أنا رَحَلْتُ",
-            "soundsLike": "Ana rahalt",
-            "translation": "I went"
+            "name": "أنا ضِحِكتُ",
+            "soundsLike": "Ana dihekt",
+            "translation": "I laughed"
         }
     },
     {
-        "id": 7,
-        "front": "I came",
+        "id": 9,
+        "front": "I ate",
         "back": {
-            "name": "أنا جِئْتُ",
-            "soundsLike": "Ana ji't",
-            "translation": "I came"
+            "name": "أنا كَلْتُ",
+            "soundsLike": "Ana kalt",
+            "translation": "I ate"
         }
     }
 ]

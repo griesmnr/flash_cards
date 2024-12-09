@@ -70,5 +70,32 @@
             "soundsLike": "ʕayyāna",
             "translation": "Sick (feminine)"
         }
+    },
+    {
+        "id": 9,
+        "front": "Crowded",
+        "back": {
+            "name": "زَحْمَة",
+            "soundsLike": "zaḥma",
+            "translation": "Crowded"
+        }
+    },
+    {
+        "id": 11,
+        "front": "Beneficial (masculine)",
+        "back": {
+            "name": "مفيد",
+            "soundsLike": "mofīd",
+            "translation": "Beneficial (masculine)"
+        }
+    },
+    {
+        "id": 12,
+        "front": "Beneficial (feminine)",
+        "back": {
+            "name": "مفيدة",
+            "soundsLike": "mofīda",
+            "translation": "Beneficial (feminine)"
+        }
     }
 ]

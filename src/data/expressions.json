@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "front": "Every time",
+        "back": {
+            "name": "كل شوية",
+            "soundsLike": "kulla shwaya",
+            "translation": "Every time"
+        }
+    },
+    {
+        "id": 2,
+        "front": "That's enough",
+        "back": {
+            "name": "كفاية بقى",
+            "soundsLike": "keffeya ba’a",
+            "translation": "That's enough"
+        }
+    },
+    {
+        "id": 3,
+        "front": "I can’t bear",
+        "back": {
+            "name": "مش قادرة",
+            "soundsLike": "mish adra",
+            "translation": "I can’t bear"
+        }
+    },
+    {
+        "id": 4,
+        "front": "Be quiet",
+        "back": {
+            "name": "اسكت بقى",
+            "soundsLike": "esco da’a",
+            "translation": "Be quiet"
+        }
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "front": "Family",
+        "back": {
+            "name": "عِيلَة",
+            "soundsLike": "Eila",
+            "translation": "Family"
+        }
+    },
+    {
+        "id": 2,
+        "front": "The pyramid",
+        "back": {
+            "name": "الهرَم",
+            "soundsLike": "El-haram",
+            "translation": "The pyramid"
+        }
+    },
+    {
+        "id": 3,
+        "front": "Chef",
+        "back": {
+            "name": "طَبَّاخ",
+            "soundsLike": "Tabbakh",
+            "translation": "Chef"
+        }
+    },
+    {
+        "id": 4,
+        "front": "Mint",
+        "back": {
+            "name": "نَّعْنَاع",
+            "soundsLike": "Na‘naa‘",
+            "translation": "Mint"
+        }
+    },
+    {
+        "id": 5,
+        "front": "Hotel",
+        "back": {
+            "name": "فُنْدُق",
+            "soundsLike": "Fondo'",
+            "translation": "Hotel"
+        }
+    },
+    {
+        "id": 6,
+        "front": "Manager",
+        "back": {
+            "name": "مُدِير",
+            "soundsLike": "Modir",
+            "translation": "Manager"
+        }
+    },
+    {
+        "id": 7,
+        "front": "Employee",
+        "back": {
+            "name": "مُوَظَّف",
+            "soundsLike": "Moazzaf",
+            "translation": "Employee"
+        }
+    },
+    {
+        "id": 8,
+        "front": "Hospital",
+        "back": {
+            "name": "مُسْتَشْفَى",
+            "soundsLike": "Mostashfa",
+            "translation": "Hospital"
+        }
+    },
+    {
+        "id": 9,
+        "front": "Glasses",
+        "back": {
+            "name": "نَضَّارَة",
+            "soundsLike": "Naddara",
+            "translation": "Glasses"
+        }
+    },
+    {
+        "id": 10,
+        "front": "Head",
+        "back": {
+            "name": "دِمَاغ",
+            "soundsLike": "Dimaghi",
+            "translation": "Head"
+        }
+    },
+    {
+        "id": 11,
+        "front": "Plane",
+        "back": {
+            "name": "طَيَّارَة",
+            "soundsLike": "Tayyara",
+            "translation": "Plane"
+        }
+    },
+    {
+        "id": 12,
+        "front": "Stomach",
+        "back": {
+            "name": "بَطْن",
+            "soundsLike": "Baṭn",
+            "translation": "Stomach"
+        }
+    },
+    {
+        "id": 13,
+        "front": "Eye",
+        "back": {
+            "name": "عَيْن",
+            "soundsLike": "ʕayn",
+            "translation": "Eye"
+        }
+    },
+    {
+        "id": 14,
+        "front": "Teeth",
+        "back": {
+            "name": "سِنّ",
+            "soundsLike": "Sinn",
+            "translation": "Tooth/Teeth"
+        }
+    }
+]

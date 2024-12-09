@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "front": "I work",
+        "back": {
+            "name": "أنا بَشْتَغَل",
+            "soundsLike": "Ana bashtagal",
+            "translation": "I work"
+        }
+    },
+    {
+        "id": 2,
+        "front": "He works",
+        "back": {
+            "name": "هو بِيِشْتَغَل",
+            "soundsLike": "Howa biyeshtagal",
+            "translation": "He works"
+        }
+    },
+    {
+        "id": 3,
+        "front": "She works",
+        "back": {
+            "name": "هي بْتِشْتَغَل",
+            "soundsLike": "Heya beteshtagal",
+            "translation": "She works"
+        }
+    }
+]

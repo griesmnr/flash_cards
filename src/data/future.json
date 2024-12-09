@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "front": "You will be (feminine)",
+        "back": {
+            "name": "هتِبقي",
+            "soundsLike": "hatibē",
+            "translation": "You will be (feminine)"
+        }
+    },
+    {
+        "id": 2,
+        "front": "You will be (masculine)",
+        "back": {
+            "name": "هتِبقى",
+            "soundsLike": "hatib'a",
+            "translation": "You will be (masculine)"
+        }
+    },
+    {
+        "id": 3,
+        "front": "I will be",
+        "back": {
+            "name": "هابقى",
+            "soundsLike": "hab'a",
+            "translation": "I will be"
+        }
+    }
+]

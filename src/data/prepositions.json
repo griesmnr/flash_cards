@@ -70,6 +70,15 @@
             "soundsLike": "bas",
             "translation": "But / Only / Enough"
         }
+    },
+    {
+        "id": 6,
+        "front": "From",
+        "back": {
+            "name": "من",
+            "soundsLike": "min",
+            "translation": "From"
+        }
     }
 
 ]
