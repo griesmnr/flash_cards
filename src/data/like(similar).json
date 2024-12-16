@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "front": "Like me",
+        "back": {
+            "name": "زيي",
+            "soundsLike": "zayyi",
+            "translation": "Like me"
+        }
+    },
+    {
+        "id": 2,
+        "front": "Like you (masculine)",
+        "back": {
+            "name": "زيك",
+            "soundsLike": "zayyak",
+            "translation": "Like you (masculine)"
+        }
+    },
+    {
+        "id": 3,
+        "front": "Like you (feminine)",
+        "back": {
+            "name": "زيكِ",
+            "soundsLike": "zayyek",
+            "translation": "Like you (feminine)"
+        }
+    },
+    {
+        "id": 4,
+        "front": "Like him",
+        "back": {
+            "name": "زيه",
+            "soundsLike": "zayyo",
+            "translation": "Like him"
+        }
+    },
+    {
+        "id": 5,
+        "front": "Like her",
+        "back": {
+            "name": "زيها",
+            "soundsLike": "zayaha",
+            "translation": "Like her"
+        }
+    },
+    {
+        "id": 6,
+        "front": "Like us",
+        "back": {
+            "name": "زينا",
+            "soundsLike": "zayyana",
+            "translation": "Like us"
+        }
+    },
+    {
+        "id": 7,
+        "front": "Like all of you (plural)",
+        "back": {
+            "name": "زيكم",
+            "soundsLike": "zayyokum",
+            "translation": "Like all of you"
+        }
+    },
+    {
+        "id": 8,
+        "front": "Like them",
+        "back": {
+            "name": "زيهم",
+            "soundsLike": "zayyohum",
+            "translation": "Like them"
+        }
+    }
+]

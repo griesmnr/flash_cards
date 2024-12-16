@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "front": "I liked her",
+        "back": {
+            "name": "عجبتني",
+            "soundsLike": "agabetni",
+            "translation": "I liked her"
+        }
+    },
+    {
+        "id": 2,
+        "front": "I liked it (masculine)",
+        "back": {
+            "name": "عجبني",
+            "soundsLike": "‘agabni",
+            "translation": "I liked it (masculine)"
+        }
+    },
+    {
+        "id": 3,
+        "front": "I liked it (feminine)",
+        "back": {
+            "name": "عجبتني",
+            "soundsLike": "‘agabetni",
+            "translation": "I liked it (feminine)"
+        }
+    },
+    {
+        "id": 4,
+        "front": "You (masculine) liked it",
+        "back": {
+            "name": "عجبك",
+            "soundsLike": "‘agabak",
+            "translation": "You liked it (masculine)"
+        }
+    },
+    {
+        "id": 5,
+        "front": "You (feminine) liked it",
+        "back": {
+            "name": "عجبِك",
+            "soundsLike": "‘agabik",
+            "translation": "You liked it (feminine)"
+        }
+    },
+    {
+        "id": 6,
+        "front": "He liked it",
+        "back": {
+            "name": "عجبه",
+            "soundsLike": "‘agabo",
+            "translation": "He liked it"
+        }
+    },
+    {
+        "id": 7,
+        "front": "She liked it",
+        "back": {
+            "name": "عجبتها",
+            "soundsLike": "‘agabetha",
+            "translation": "She liked it"
+        }
+    },
+    {
+        "id": 8,
+        "front": "We liked it",
+        "back": {
+            "name": "عجبنا",
+            "soundsLike": "‘agabna",
+            "translation": "We liked it"
+        }
+    },
+    {
+        "id": 9,
+        "front": "They liked it",
+        "back": {
+            "name": "عجبهم",
+            "soundsLike": "‘agabohom",
+            "translation": "They liked it"
+        }
+    },
+    {
+        "id": 10,
+        "front": "You (plural) liked it",
+        "back": {
+            "name": "عجبكم",
+            "soundsLike": "‘agabkom",
+            "translation": "You all liked it"
+        }
+    }
+]

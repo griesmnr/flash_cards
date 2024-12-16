@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "front": "I brought you (masculine)",
+        "back": {
+            "name": "أنا جبتلك",
+            "soundsLike": "ana gibtilak",
+            "translation": "I brought you (masculine)"
+        }
+    },
+    {
+        "id": 2,
+        "front": "I brought you (feminine)",
+        "back": {
+            "name": "أنا جبتلكِ",
+            "soundsLike": "ana gibtilik",
+            "translation": "I brought you (feminine)"
+        }
+    },
+    {
+        "id": 3,
+        "front": "You (masculine) brought me",
+        "back": {
+            "name": "إنتَ جبتلي",
+            "soundsLike": "enta gibtili",
+            "translation": "You brought me (masculine)"
+        }
+    },
+    {
+        "id": 4,
+        "front": "You (feminine) brought me",
+        "back": {
+            "name": "إنتِ جبتلي",
+            "soundsLike": "enti gibtili",
+            "translation": "You brought me (feminine)"
+        }
+    },
+    {
+        "id": 5,
+        "front": "I brought her",
+        "back": {
+            "name": "أنا جبتلها",
+            "soundsLike": "ana gibtilha",
+            "translation": "I brought her"
+        }
+    },
+    {
+        "id": 6,
+        "front": "I brought him",
+        "back": {
+            "name": "أنا جبتله",
+            "soundsLike": "ana gibtilo",
+            "translation": "I brought him"
+        }
+    },
+    {
+        "id": 7,
+        "front": "She brought me",
+        "back": {
+            "name": "هي جبتلي",
+            "soundsLike": "heyya gibtili",
+            "translation": "She brought me"
+        }
+    },
+    {
+        "id": 8,
+        "front": "He brought me",
+        "back": {
+            "name": "هو جابلي",
+            "soundsLike": "howa gabli",
+            "translation": "He brought me"
+        }
+    }
+]

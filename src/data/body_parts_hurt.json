@@ -1,0 +1,111 @@
+[
+    {
+        "id": 19,
+        "front": "My teeth hurt",
+        "back": {
+            "name": "سناني بتوجعني",
+            "soundsLike": "senani bitwagna-ni",
+            "translation": "My teeth hurt"
+        }
+    },
+    {
+        "id": 20,
+        "front": "My body hurts",
+        "back": {
+            "name": "جسمي بيوجعني",
+            "soundsLike": "gismi biyugani",
+            "translation": "My body hurts"
+        }
+    },
+    {
+        "id": 21,
+        "front": "My head hurts",
+        "back": {
+            "name": "دماغي بتوجعني",
+            "soundsLike": "dimaaghi bitwag‘ani",
+            "translation": "My head hurts"
+        }
+    },
+    {
+        "id": 22,
+        "front": "My stomach hurts",
+        "back": {
+            "name": "بطني بتوجعني",
+            "soundsLike": "batni bitwag‘ani",
+            "translation": "My stomach hurts"
+        }
+    },
+    {
+        "id": 23,
+        "front": "My arm hurts",
+        "back": {
+            "name": "دراعي بيوجعني",
+            "soundsLike": "dira‘i biyugani",
+            "translation": "My arm hurts"
+        }
+    },
+    {
+        "id": 24,
+        "front": "My fingers hurt",
+        "back": {
+            "name": "صباعي بيوجعني",
+            "soundsLike": "soba‘i biyugani",
+            "translation": "My fingers hurt"
+        }
+    },
+    {
+        "id": 25,
+        "front": "Her teeth hurt",
+        "back": {
+            "name": "أسنانها بتوجعها",
+            "soundsLike": "asnanha bitwag‘aha",
+            "translation": "Her teeth hurt"
+        }
+    },
+    {
+        "id": 26,
+        "front": "Her body hurts",
+        "back": {
+            "name": "جسمها بيوجعها",
+            "soundsLike": "gismaha biyugaha",
+            "translation": "Her body hurts"
+        }
+    },
+    {
+        "id": 27,
+        "front": "Her head hurts",
+        "back": {
+            "name": "دماغها بتوجعها",
+            "soundsLike": "dimaagha bitwag‘aha",
+            "translation": "Her head hurts"
+        }
+    },
+    {
+        "id": 28,
+        "front": "Her stomach hurts",
+        "back": {
+            "name": "بطنها بتوجعها",
+            "soundsLike": "batnaha bitwag‘aha",
+            "translation": "Her stomach hurts"
+        }
+    },
+    {
+        "id": 29,
+        "front": "Her arm hurts",
+        "back": {
+            "name": "ذراعها بيوجعها",
+            "soundsLike": "diraa‘ha biyugaha",
+            "translation": "Her arm hurts"
+        }
+    },
+    {
+        "id": 30,
+        "front": "Her fingers hurt",
+        "back": {
+            "name": "أصابعها بيوجعها",
+            "soundsLike": "asabi‘ha biyugaha",
+            "translation": "Her fingers hurt"
+        }
+    }
+
+]

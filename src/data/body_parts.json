@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "front": "The body",
+        "back": {
+            "name": "الجسم",
+            "soundsLike": "el-gism",
+            "translation": "The body"
+        }
+    },
+    {
+        "id": 2,
+        "front": "My body",
+        "back": {
+            "name": "جسمي",
+            "soundsLike": "gismi",
+            "translation": "My body"
+        }
+    },
+    {
+        "id": 3,
+        "front": "Her body",
+        "back": {
+            "name": "جسمها",
+            "soundsLike": "gismaha",
+            "translation": "Her body"
+        }
+    },
+    {
+        "id": 4,
+        "front": "The arm",
+        "back": {
+            "name": "الذراع",
+            "soundsLike": "el-diraa‘",
+            "translation": "The arm"
+        }
+    },
+    {
+        "id": 5,
+        "front": "My arm",
+        "back": {
+            "name": "دراعي",
+            "soundsLike": "diraa‘i",
+            "translation": "My arm"
+        }
+    },
+    {
+        "id": 6,
+        "front": "Her arm",
+        "back": {
+            "name": "ذراعها",
+            "soundsLike": "diraa‘ha",
+            "translation": "Her arm"
+        }
+    },
+    {
+        "id": 7,
+        "front": "The fingers",
+        "back": {
+            "name": "الأصابع",
+            "soundsLike": "el-asabi‘",
+            "translation": "The fingers"
+        }
+    },
+    {
+        "id": 8,
+        "front": "My fingers",
+        "back": {
+            "name": "صباعي",
+            "soundsLike": "soba‘i",
+            "translation": "My fingers"
+        }
+    },
+    {
+        "id": 9,
+        "front": "Her fingers",
+        "back": {
+            "name": "أصابعها",
+            "soundsLike": "asabi‘ha",
+            "translation": "Her fingers"
+        }
+    },
+    {
+        "id": 10,
+        "front": "The head",
+        "back": {
+            "name": "الرأس",
+            "soundsLike": "el-ras",
+            "translation": "The head"
+        }
+    },
+    {
+        "id": 11,
+        "front": "My head",
+        "back": {
+            "name": "دماغي",
+            "soundsLike": "dimaaghi",
+            "translation": "My head"
+        }
+    },
+    {
+        "id": 12,
+        "front": "Her head",
+        "back": {
+            "name": "دماغها",
+            "soundsLike": "dimaagha",
+            "translation": "Her head"
+        }
+    },
+    {
+        "id": 13,
+        "front": "The stomach",
+        "back": {
+            "name": "البطن",
+            "soundsLike": "el-batn",
+            "translation": "The stomach"
+        }
+    },
+    {
+        "id": 14,
+        "front": "My stomach",
+        "back": {
+            "name": "بطني",
+            "soundsLike": "batni",
+            "translation": "My stomach"
+        }
+    },
+    {
+        "id": 15,
+        "front": "Her stomach",
+        "back": {
+            "name": "بطنها",
+            "soundsLike": "batnaha",
+            "translation": "Her stomach"
+        }
+    },
+    {
+        "id": 16,
+        "front": "The teeth",
+        "back": {
+            "name": "الأسنان",
+            "soundsLike": "el-asnan",
+            "translation": "The teeth"
+        }
+    },
+    {
+        "id": 17,
+        "front": "My teeth",
+        "back": {
+            "name": "سناني",
+            "soundsLike": "senani",
+            "translation": "My teeth"
+        }
+    },
+    {
+        "id": 18,
+        "front": "Her teeth",
+        "back": {
+            "name": "أسنانها",
+            "soundsLike": "asnanha",
+            "translation": "Her teeth"
+        }
+    }
+]
